@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @btgvesta
 - 👀 I’m interested in ... Data Analytics and Engineering
-- 🌱 I’m currently learning ... dbt, FiveTran, Snowflake
+- 🌱 I’m currently learning ... dbt, Snowflake
 - 💞️ I’m looking to collaborate on ... Snowflake, FiveTran, dbt
 
 <!---
